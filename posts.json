@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Test post",
+    "content": "test test test test test test",
+    "user_id": 1
+  },
+  {
+    "title": "Test post",
+    "content": "test test test test test test test test test",
+    "user_id": 2
+  },
+   {
+    "title": "Test post",
+    "content": "test test test test test test",
+    "user_id": 1
+  },
+  {
+    "title": "Test post",
+    "content": "test test test test test test test test test",
+    "user_id": 2
+  },  {
+    "title": "Test post",
+    "content": "test test test test test test",
+    "user_id": 1
+  },
+  {
+    "title": "Test post",
+    "content": "test test test test test test test test test",
+    "user_id": 2
+  },  {
+    "title": "Test post",
+    "content": "test test test test test test",
+    "user_id": 1
+  },
+  {
+    "title": "Test post",
+    "content": "test test test test test test test test test",
+    "user_id": 2
+  },  {
+    "title": "Test post",
+    "content": "test test test test test test",
+    "user_id": 1
+  },
+  {
+    "title": "Test post",
+    "content": "test test test test test test test test test",
+    "user_id": 2
+  }
+]
